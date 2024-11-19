@@ -5,9 +5,8 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jackson-ribeiro-ba8192193/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Cruz-Araujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cruz-Araujo&layout=compact&langs_count=7&theme=dark"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Cruz-Araujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cruz-Araujo&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
