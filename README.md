@@ -45,7 +45,7 @@ Na visão geral abaixo, você encontrará minha experiência de trabalho mais re
 
 ## 📊 Meus Projetos
 
-### 📌 [Comment Gauge](https://github.com/seu-usuario/ANDS
+### 📌 [Comment Gauge](https://github.com/seu-usuario/AnDS)
 **Um projeto de análise de sentimentos focado em comentários do YouTube.**  
 Tecnologias utilizadas: `Python`, `NLP`, `Data Visualization`.
 
