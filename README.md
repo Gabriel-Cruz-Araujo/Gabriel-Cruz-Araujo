@@ -83,7 +83,7 @@ Tecnologias utilizadas:
 
 ## 📚 Atualmente Estudando
 - Machine Learning Avançado  
-- Engenharia de Dados (Airflow, Spark)  
+- Engenharia de Dados  
 - Power BI & Visualização de Dados  
 
 ---
