@@ -50,11 +50,13 @@ Na visão geral abaixo, você encontrará minha experiência de trabalho mais re
 Tecnologias utilizadas: `Python`, `NLP`, `Data Visualization`.
 
 ### 📌 [RPG de Console](https://github.com/Gabriel-Cruz-Araujo/Rpg_cpp)
-**Um jogo de rpg no console**
+**Um jogo de rpg no console.**
+
 Tecnologias ultilizadas: `C++`.
 
 ### 📌 [Automação_Erp](https://github.com/Gabriel-Cruz-Araujo/Automacao_ERP)
 **Automação inteligente para qualificação de clientes via integração entre Tiny ERP, Kommo CRM e Olist.**
+
 Tecnologias ultilizadas: `Python`, `Selenium`, `Api`.
 ---
 ## 🌐 Onde Me Encontrar
